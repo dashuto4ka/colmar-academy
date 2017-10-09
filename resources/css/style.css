@@ -127,7 +127,7 @@ header.mobile {
 
 .info-container {
 	width: 40% ;
-	margin-top: 1rem;
+	margin-top: 2rem;
 }
 
 .info {
@@ -254,6 +254,8 @@ video {
 	font-weight: bold;
 	margin-bottom: 0.5rem;
 }
+
+/* FOOTER */
 
 footer {
 	display: flex;
